@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-contract-wiremock:2.0.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-contract-wiremock/2.0.0.RELEASE/b7b20e92307d0ae563c73d3d11b74e7a16023397/spring-cloud-contract-wiremock-2.0.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-contract-wiremock/2.0.0.RELEASE/a98362a7fcc80ec6b43cd6770b26e2dd436a2bb4/spring-cloud-contract-wiremock-2.0.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
