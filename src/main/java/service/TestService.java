@@ -1,15 +1,23 @@
 package service;
 
-import client.TestClient;
-import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.http.HttpEntity;
+import org.springframework.http.HttpMethod;
+import org.springframework.stereotype.Service;
+import org.springframework.web.client.RestTemplate;
 
+@Service
 public class TestService {
 
-    @Autowired
-    private TestClient client;
+
+    @Value("${test.endpoint}")
+    private String endpoint;
 
 
-    public void getSomething(){
-        client.get();
+    public String getSomething(){
+        RestTemplate restTemplate = new RestTemplate();
+        return restTemplate.getForObject(endpoint, String.class);
+
+
     }
 }

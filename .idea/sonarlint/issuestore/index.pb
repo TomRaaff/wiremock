@@ -14,11 +14,5 @@ Y
 )src/main/resources/application.properties,0/6/06f65155ec73600b9fc5c4dc2883d4bb84d8e284
 Z
 *src/test/java/service/TestServiceTest.java,9/3/93fb95903d169ca4c03735a775b889515478bee6
-T
-$src/main/java/client/TestClient.java,5/1/51434dbd30d89c7eac65d375b4d6fcb0418fc45e
 V
 &src/main/java/config/ClientConfig.java,e/9/e96aef26726f6048dfbde614cb1c3e66d23e2e3a
-S
-#src/main/java/config/E2EConfig.java,9/a/9ab4397bbfd0ccf594d4a58fca8c84812381932a
-X
-(src/main/java/config/WiremockConfig.java,7/5/7558d117bc9958a4cd8cf9cea006a5ab556202da
